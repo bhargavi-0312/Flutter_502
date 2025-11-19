@@ -15,6 +15,9 @@
 | `experiment2b.dart` | **Layouts** | Illustrates how widgets are positioned: **`Row`** (horizontal), **`Column`** (vertical), and **`Stack`** (Z-axis overlaying, often used with `Positioned`).  |
 
 ---
+OUTPUT:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0ad6de73-5f2e-41c9-966a-1ed68edac9b4" />
+
 
 ### Experiment 3: Responsive UI
 
@@ -24,6 +27,8 @@
 | `experiment3b.dart` | **Using `LayoutBuilder`** | Adapts the UI based on the **local constraints of the parent widget** (`c.maxWidth`), making it ideal for inner components that must fit dynamic spaces.  |
 
 ---
+OUTPUT:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/fcdc851e-3049-42e4-a77b-c6512c1aad8f" />
 
 ### Experiment 4: Navigation
 
@@ -33,6 +38,8 @@
 | `experiment4b.dart` | **Named Routes** | Defines routes globally in the `MaterialApp` (`/`, `/second`) for cleaner, string-based navigation using **`Navigator.pushNamed()`**. |
 
 ---
+OUTPUT:
+
 
 ### Experiment 5: Stateful vs. Stateless
 
