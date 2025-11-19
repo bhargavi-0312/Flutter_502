@@ -7,6 +7,7 @@
 
 ---
 
+
 ### Experiment 2: Widgets & Layouts
 
 | File | Concept | Description |
@@ -16,6 +17,11 @@
 
 ---https://github.com/bhargavi-0312/Flutter_502.git
 
+OUTPUT:
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9d8d2ee0-38ce-4a04-91d4-9e98acb8d108" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3115e777-c260-434d-b67e-19e507b85694" />
+
+
 ### Experiment 3: Responsive UI
 
 | File | Concept | Description |
@@ -24,6 +30,9 @@
 | `experiment3b.dart` | **Using `LayoutBuilder`** | Adapts the UI based on the **local constraints of the parent widget** (`c.maxWidth`), making it ideal for inner components that must fit dynamic spaces.  |
 
 ---
+
+OUTPUT:
+
 
 ### Experiment 4: Navigation
 
