@@ -1,3 +1,29 @@
+==> Getting Started
+
+Prerequisites
+-->Flutter SDK installed.
+
+-->Dart SDK installed.
+
+Installation Note: Follow the instructions from https://flutter.dev to install Flutter and Dart.
+
+How to Run Experiments
+
+-->Clone the Repository (if this were a real repo):
+
+-->git clone [your_repo_link]
+
+-->cd flutter-ui-lab-manual
+
+-->Run a specific Dart file (for Experiment 1a):
+
+-->dart lib/1a_dart_basics.dart
+
+-->Run a specific Flutter App (for Experiments 2-10):
+
+-->flutter run -t lib/[filename].dart
+
+
 ### Experiment 1: Dart Basics
 
 | File | Concept | Description |
